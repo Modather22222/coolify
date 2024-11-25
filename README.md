@@ -1,0 +1,2 @@
+# coolify
+self hosting deployment
